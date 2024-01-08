@@ -7,7 +7,7 @@ However, new sorts of HCI solutions have been developed as a result of the rapid
 In this project , I have made use of a robust hand and finger tracking system ,which can efficiently track both hand and hand landmarks features , in order to make a fun Virtual Painter.
 
 # Software Requirements:
-# Python environment:
+## Python environment:
 
 Python 3.9
 
