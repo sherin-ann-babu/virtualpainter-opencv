@@ -10,11 +10,14 @@ In this project , I have made use of a robust hand and finger tracking system ,w
 # Python environment:
 
 Python 3.9
+
 A python IDE , in my case I used VS code.
 
 # Packages:
 
 OpenCV : OpenCV is the world's largest and most popular computer vision library . The library is cross-platform and free for use.
+
 MediaPipe : MediaPipe offers cross-platform, customizable ML solutions for live and streaming media. it will help us detect and track hands and handlandmarks features.
+
 Numpy : introducing support for large, multi-dimensional arrays and matrices, as well as a vast set of high-level mathematical functions to manipulate them.
 
